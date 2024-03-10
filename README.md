@@ -18,3 +18,7 @@ tools/ubuntu_setup.sh
 ``` bash
 poetry shell
 ```
+4.构筑项目
+``` bash
+scons -u -j$(nproc)
+```
