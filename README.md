@@ -6,9 +6,10 @@ openpilot原项目地址https://github.com/commaai/openpilot
 ```bash
 cd model_test
 
-python run_onnx.py
 #输出详细信息
+python run_onnx.py
 
-#python run_onnx_simple.py
 #测试模型运行时间
+#python run_onnx_simple.py
+
 ```
